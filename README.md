@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [https://amrahmed22.github.io/portfolio/](portfolio)
 
 - 💬 Ask me about **react.js , node.js**
 
