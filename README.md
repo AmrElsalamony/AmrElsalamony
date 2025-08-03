@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react.js , node.js**
 
-- 📫 How to reach me **amr480048@gmail.com**
+- 📫 How to reach me **amr.ahmed.elsalamony@gmail.com**
 
 - 📄 Know about my experiences [resume](resume)
 
